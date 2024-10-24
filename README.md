@@ -26,17 +26,17 @@ The landing page features sections like a hero banner, features, a blog, and a f
 src/
 │
 ├── components/
-│   ├── Navbar.js          # Navigation bar for easy access to different sections
-│   ├── Hero.js            # Hero section with a headline and call-to-action
-│   ├── Features.js        # Features section highlighting Easybank services
-│   ├── Blog.js            # Blog section for showcasing articles
-│   ├── Footer.js          # Footer with links and contact information
+│   ├── Navbar.js          
+│   ├── Hero.js            
+│   ├── Features.js        
+│   ├── Blog.js            
+│   ├── Footer.js          
 │
 ├── styles/
-│   ├── tailwind.css       # Custom Tailwind CSS configuration for the project
+│   ├── index.css       
 │
-├── App.js                 # Main component rendering all sections
-├── index.js               # Entry point for the React application
+├── App.js                 
+├── index.js               
 └── ...
 ```
 
@@ -44,12 +44,12 @@ src/
 
 1. **Clone the repository:**
   ```bash
-  git clone https://github.com/Reemaz88/multi-step-form-main
+  git clone https://github.com/Reemaz88/Easybank-Landing-Page
   ```
 
 2. **Navigate to the project directory:**
   ```bash
-  cd multi-step-form-main
+  cd easybank-landing-page
   ```
 
 3. **Install the dependencies:**
